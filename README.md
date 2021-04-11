@@ -27,6 +27,15 @@ T-test was performed to determine if all manufacturing lots and each lot individ
 
 ![Lot3Ttest](https://user-images.githubusercontent.com/76858662/114289333-04453f00-9a45-11eb-9348-acaab693fc99.PNG)
 
+## Study Design: MechaCar vs Competition
+The team wants to further analyze and quantify how the MechaCar performs against the competition. There are few factors that people consider while buying a car and the top one is MPG - comparing fuel efficiencies of MechaCar prototypes with their competitiors. Other metrics that are considered are horsepower and size of the engine. 
+
+H0 - stating that there is no statistical difference between MechaCar prototypes MPG and competitors.
+Ha- stating that the true mean of MechaCar prototypes's MPG dataset greater than that of our competitors.
+
+The data that is needed would be MechaCar prototypes that have varying design specifications from vehicle lengths and ground clearance as it was clearly shown that these specifications affect MPG the most. These specifications are then matched with competitiors car to see who wins the race of fuel efficiency. After collecting data, we will use paired T-test. This is to compare population of all types of competitor vehicles and call each subset of manufacturing lots to check which lot is not meeting standards.
+If the p value is less than 0.05
+
 
 
 
