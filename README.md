@@ -14,6 +14,21 @@ In this part of the challenge, after testing the data, it seems that lot 1 and 2
 
 ![Challenge5](https://user-images.githubusercontent.com/76858662/114288957-f3df9500-9a41-11eb-8b24-648263afda35.PNG)
 
-![Challenge4](https://user-images.githubusercontent.com/76858662/114288960-f7731c00-9a41-11eb-9c89-fde241f9f822.PNG)
+![Challenge4](https://user-images.githubusercontent.com/76858662/114288960-f7731c00-9a41-11eb-9c89-fde241f9f822.PNG
+
+## T-test
+T-test was performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. Our p-value is 0.06 which is above the significance level of 0.05 which suggest that the means can be statistically similar. The test also has a 95% confidence interval of 1497.507 1500.053, which would mean the population mean of 1500 falls under the 95% confidence interval.
+
+![Challenge6](https://user-images.githubusercontent.com/76858662/114289316-ee377e80-9a44-11eb-9b64-c8238a73d29e.PNG)
+
+![Lot1Ttest](https://user-images.githubusercontent.com/76858662/114289324-f5f72300-9a44-11eb-8789-f81c4772b434.PNG)
+
+![Lot2Ttest](https://user-images.githubusercontent.com/76858662/114289328-ff808b00-9a44-11eb-9255-73a619582899.PNG)
+
+![Lot3Ttest](https://user-images.githubusercontent.com/76858662/114289333-04453f00-9a45-11eb-9348-acaab693fc99.PNG)
+
+
+
+
 
 
