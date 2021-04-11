@@ -34,7 +34,7 @@ H0 - stating that there is no statistical difference between MechaCar prototypes
 Ha- stating that the true mean of MechaCar prototypes's MPG dataset greater than that of our competitors.
 
 The data that is needed would be MechaCar prototypes that have varying design specifications from vehicle lengths and ground clearance as it was clearly shown that these specifications affect MPG the most. These specifications are then matched with competitiors car to see who wins the race of fuel efficiency. After collecting data, we will use paired T-test. This is to compare population of all types of competitor vehicles and call each subset of manufacturing lots to check which lot is not meeting standards.
-If the p value is less than 0.05
+If the p value is less than 0.05, we can easily conclude to reject null hypothesis and state that alternate hypothesis is true which is that MechaCar prototypes have better fuel efficicency than competitors.
 
 
 
